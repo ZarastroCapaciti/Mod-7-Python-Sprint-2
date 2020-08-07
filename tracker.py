@@ -9,11 +9,11 @@ import string
 import matplotlib.pyplot as plt
 
 
-#Twitter credentials for the app
-consumer_key = "HzfdGL0S6t2z4idvtWp1bPyes"
-consumer_secret = "4MKropTzx8nhJyvWb5i2VXxJeTpWPDbiswmHqcZXau1VRNMTv0"
-access_key = "746774013322596353-keowvHbomjTsdguSDH5uQhHRqGQ4Lr1"
-access_secret = "cYP3pCWHHEt2m7hhhC5nVvPR2n6uXJRaF208lJjFEZIKA"
+#Twitter credentials for the app (deleted for security purposes)
+consumer_key = ""
+consumer_secret = ""
+access_key = ""
+access_secret = ""
 
 #pass twitter credentials to tweepy
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
